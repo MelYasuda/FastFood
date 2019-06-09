@@ -1,0 +1,71 @@
+----------------------------------------
+6/8/19 9:23:43 PM
+Total Transaction: $11
+Combo Type:Cheese Burger Combo Price:7
+Item:Hamburger Price: $4
+----------------------------------------
+6/8/19 9:56:20 PM
+Total Transaction: $14
+Item:Hamburger Price: $4
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:03:03 AM
+Total Transaction: $21
+Item:Hamburger Price: $4
+Combo Type:Fish Burger Combo Price:10
+Combo Type:Cheese Burger Combo Price:7
+----------------------------------------
+6/9/19 8:05:25 AM
+Total Transaction: $21
+Item:Hamburger Price: $4
+Combo Type:Cheese Burger Combo Price:7
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:07:04 AM
+Total Transaction: $8
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Item:Soda Price: $1
+----------------------------------------
+6/9/19 8:09:54 AM
+Total Transaction: $11
+Item:Soda Price: $1
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:11:33 AM
+Total Transaction: $17
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:13:10 AM
+Total Transaction: $17
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:19:21 AM
+Total Transaction: $15
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Item:Soda Price: $1
+Combo Type:Cheese Burger Combo Price:7
+----------------------------------------
+6/9/19 8:23:55 AM
+Total Transaction: $24
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Combo Type:Cheese Burger Combo Price:7
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:27:21 AM
+Total Transaction: $17
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Combo Type:Fish Burger Combo Price:10
+----------------------------------------
+6/9/19 8:29:34 AM
+Total Transaction: $17
+Item:Hamburger Price: $4
+Item:Fries Price: $3
+Combo Type:Fish Burger Combo Price:10

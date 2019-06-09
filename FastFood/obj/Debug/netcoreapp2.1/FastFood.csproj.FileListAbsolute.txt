@@ -1,0 +1,11 @@
+/Users/meguruyasuda/Projects/FastFood/FastFood/obj/Debug/netcoreapp2.1/FastFood.csprojAssemblyReference.cache
+/Users/meguruyasuda/Projects/FastFood/FastFood/obj/Debug/netcoreapp2.1/FastFood.csproj.CoreCompileInputs.cache
+/Users/meguruyasuda/Projects/FastFood/FastFood/obj/Debug/netcoreapp2.1/FastFood.AssemblyInfoInputs.cache
+/Users/meguruyasuda/Projects/FastFood/FastFood/obj/Debug/netcoreapp2.1/FastFood.AssemblyInfo.cs
+/Users/meguruyasuda/Projects/FastFood/FastFood/bin/Debug/netcoreapp2.1/FastFood.deps.json
+/Users/meguruyasuda/Projects/FastFood/FastFood/bin/Debug/netcoreapp2.1/FastFood.runtimeconfig.json
+/Users/meguruyasuda/Projects/FastFood/FastFood/bin/Debug/netcoreapp2.1/FastFood.runtimeconfig.dev.json
+/Users/meguruyasuda/Projects/FastFood/FastFood/bin/Debug/netcoreapp2.1/FastFood.dll
+/Users/meguruyasuda/Projects/FastFood/FastFood/bin/Debug/netcoreapp2.1/FastFood.pdb
+/Users/meguruyasuda/Projects/FastFood/FastFood/obj/Debug/netcoreapp2.1/FastFood.dll
+/Users/meguruyasuda/Projects/FastFood/FastFood/obj/Debug/netcoreapp2.1/FastFood.pdb

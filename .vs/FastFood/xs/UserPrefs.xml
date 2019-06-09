@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7CCD7A1B-8B5F-4F91-8658-7143C4DDE5FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.FastFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FastFood/Program.cs">
+    <Files>
+      <File FileName="FastFood/Program.cs" Line="329" Column="27" />
+      <File FileName="FastFood/EmptyClass.cs" Line="2" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FastFood" expanded="True">
+            <Node name="FastFood" expanded="True">
+              <Node name="c:\test.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

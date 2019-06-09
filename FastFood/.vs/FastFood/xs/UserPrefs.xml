@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A4F98EC5-37AE-4996-B4EE-81BD108523B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.FastFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingleItemFactory.cs">
+    <Files>
+      <File FileName="Program.cs" Line="122" Column="1" />
+      <File FileName="SingleItemFactory.cs" Line="6" Column="11" />
+      <File FileName="Logger.cs" Line="28" Column="1" />
+      <File FileName="Price.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FastFood" expanded="True">
+            <Node name="FastFood" expanded="True">
+              <Node name="SingleItemFactory.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
